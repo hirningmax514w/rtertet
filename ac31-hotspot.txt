@@ -1,7 +1,7 @@
 TOL-1106 AC3.1 fixture
-line X
-line Y
-line Z
-line W
-line V
-revert marker 2
+line P
+line Q
+line R
+line S
+line T
+revert marker 3
